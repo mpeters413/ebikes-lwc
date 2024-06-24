@@ -86,6 +86,12 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>unfiled$public/MarketingProductInquiryResponse</members>
+        <members>unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
+        <members>unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE</members>
+        <name>EmailTemplate</name>
+    </types>
+    <types>
         <members>Account.AllAccounts</members>
         <members>Account.MyAccounts</members>
         <members>Account.NewLastWeek</members>
@@ -115,7 +121,7 @@
         <name>SharingGuestRule</name>
     </types>
     <types>
-        <members/>
+        <members>unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE.email-meta.xml</members>
         <name>SharingRules</name>
     </types>
     <types>
