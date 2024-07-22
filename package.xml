@@ -92,6 +92,10 @@
         <name>EmailTemplate</name>
     </types>
     <types>
+        <members>Campaign-Campaign Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>Account.AllAccounts</members>
         <members>Account.MyAccounts</members>
         <members>Account.NewLastWeek</members>
