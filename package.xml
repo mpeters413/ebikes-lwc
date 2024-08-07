@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>59.0</version>
+    <version>60.0</version>
     <types>
         <members>CommunitiesLandingController</members>
         <members>CommunitiesLandingControllerTest</members>
@@ -17,9 +17,44 @@
         <name>ApexPage</name>
     </types>
     <types>
+        <members>Case.Standard</members>
+        <members>Lead.Standard</members>
+        <name>AssignmentRule</name>
+    </types>
+    <types>
+        <members>Case</members>
+        <members>Lead</members>
+        <name>AssignmentRules</name>
+    </types>
+    <types>
         <members>ebikeslogo</members>
         <members>logo</members>
         <name>ContentAsset</name>
+    </types>
+    <types>
+        <members>standard__AllTabSet</members>
+        <members>standard__AppLauncher</members>
+        <members>standard__Chatter</members>
+        <members>standard__Community</members>
+        <members>standard__Content</members>
+        <members>standard__DataManager</members>
+        <members>standard__FlowsApp</members>
+        <members>standard__Insights</members>
+        <members>standard__LightningBolt</members>
+        <members>standard__LightningInstrumentation</members>
+        <members>standard__LightningSalesConsole</members>
+        <members>standard__LightningScheduler</members>
+        <members>standard__LightningService</members>
+        <members>standard__Marketing</members>
+        <members>standard__Platform</members>
+        <members>standard__QueueManagement</members>
+        <members>standard__RevenueCloudConsole</members>
+        <members>standard__Sales</members>
+        <members>standard__SalesforceCMS</members>
+        <members>standard__Service</members>
+        <members>standard__ServiceConsole</members>
+        <members>standard__Sites</members>
+        <name>CustomApplication</name>
     </types>
     <types>
         <members>Account.AccountNumber</members>
@@ -72,6 +107,54 @@
         <members>Account.NewLastWeek</members>
         <members>Account.NewThisWeek</members>
         <members>Account.PlatinumandGoldSLACustomers</members>
+        <members>Activity.AllActivities</members>
+        <members>Activity.MyActivities</members>
+        <members>Activity.TodaysTasks</members>
+        <members>Activity.UpcomingEvents</members>
+        <members>Asset.AllAssets</members>
+        <members>Campaign.AllActiveCampaigns</members>
+        <members>Campaign.MyActiveCampaigns</members>
+        <members>Case.AllClosedCases</members>
+        <members>Case.AllOpenCases</members>
+        <members>Case.MyCases</members>
+        <members>Case.MyOpenCases</members>
+        <members>Contact.AllContacts</members>
+        <members>Contact.BirthdaysThisMonth</members>
+        <members>Contact.BulkMessageContacts</members>
+        <members>Contact.MyContacts</members>
+        <members>Contact.NewLastWeek</members>
+        <members>Contact.NewThisWeek</members>
+        <members>Contract.AllActivatedContracts</members>
+        <members>Contract.AllContracts</members>
+        <members>Contract.AllDraftContracts</members>
+        <members>Contract.AllInApprovalContracts</members>
+        <members>Contract.MyActivatedContracts</members>
+        <members>Contract.MyDraftContracts</members>
+        <members>Contract.MyInApprovalContracts</members>
+        <members>Lead.AllOpenLeads</members>
+        <members>Lead.MyUnreadLeads</members>
+        <members>Lead.TodaysLeads</members>
+        <members>Lead.ViewCustom1</members>
+        <members>Lead.ViewCustom2</members>
+        <members>MessagingEndUser.BulkMessageMessagingEndUsers</members>
+        <members>Opportunity.AllOpportunities</members>
+        <members>Opportunity.ClosingNextMonth</members>
+        <members>Opportunity.ClosingThisMonth</members>
+        <members>Opportunity.Default_Opportunity_Pipeline</members>
+        <members>Opportunity.MyOpportunities</members>
+        <members>Opportunity.NewLastWeek</members>
+        <members>Opportunity.NewThisWeek</members>
+        <members>Opportunity.Private</members>
+        <members>Opportunity.Won</members>
+        <members>Order.AllActivatedOrders</members>
+        <members>Order.AllDraftOrders</members>
+        <members>Order.AllOrders</members>
+        <members>Product2.AllProducts</members>
+        <members>Solution.AllReviewedSolutions</members>
+        <members>Solution.AllUnreviewedSolutions</members>
+        <members>User.ActiveUsers</members>
+        <members>User.AdminUsers</members>
+        <members>User.AllUsers</members>
         <name>ListView</name>
     </types>
     <types>
