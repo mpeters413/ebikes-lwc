@@ -32,6 +32,10 @@
         <name>AssignmentRules</name>
     </types>
     <types>
+        <members>Internal Zone</members>
+        <name>Community</name>
+    </types>
+    <types>
         <members>ebikeslogo</members>
         <members>logo</members>
         <name>ContentAsset</name>
