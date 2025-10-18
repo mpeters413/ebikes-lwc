@@ -64,6 +64,8 @@ public with sharing class ProductController {
         return result;
     }
 
+    //updating for demo
+
     @AuraEnabled(Cacheable=true scope='global')
     public static Product__c[] getSimilarProducts(Id productId, Id familyId) {
         return [
