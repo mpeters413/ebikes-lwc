@@ -110,10 +110,6 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>Account</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
         <members>unfiled$public/MarketingProductInquiryResponse</members>
         <members>unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
         <members>unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE</members>
