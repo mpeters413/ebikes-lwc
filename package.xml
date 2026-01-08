@@ -261,6 +261,12 @@
         <name>StaticResource</name>
     </types>
     <types>
+        <members>Customer Portal.Customer_Members</members>
+        <members>Customer Portal.Members_without_contribution</members>
+        <members>Customer Portal.Partner_and_Customer_members</members>
+        <name>UserCriteria</name>
+    </types>
+    <types>
         <members>Account.Billing</members>
         <name>WebLink</name>
     </types>
